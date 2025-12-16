@@ -1,11 +1,11 @@
 ## Who am I 
 *I am just one of the Sourcerers* 🧙
 
-Sourcerers at @sourcenetwrk | OPEN Quest 
+Sourcerers at [sourcenetwrk] (https://x.com/sourcenetwrk) | OPEN Quest 
 #DefraDB decentralized data solutions. #DataToThePeople 🧙
 
 ## There's nothing here 👇
 
--   GitHub: https://github.com/dmjlya
--   Facebook: https://facebook.com/dmjlya
--   LinkedIn: https://linkedin.com/in/dmjlya
+-   [GitHub] (https://github.com/dmjlya)
+-   [Facebook](https://facebook.com/dmjlya)
+-   [LinkedIn] (https://linkedin.com/in/dmjlya)
