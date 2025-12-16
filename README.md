@@ -1,5 +1,5 @@
 ## Who am I 
-**I am just one of the Sourcerers* 🧙
+*I am just one of the Sourcerers* 🧙
 
 Sourcerers at @sourcenetwrk | OPEN Quest 
 #DefraDB decentralized data solutions. #DataForThePeople 🧙
