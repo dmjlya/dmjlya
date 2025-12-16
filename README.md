@@ -2,7 +2,7 @@
 *I am just one of the Sourcerers* 🧙
 
 Sourcerers at @sourcenetwrk | OPEN Quest 
-#DefraDB decentralized data solutions. #DataForThePeople 🧙
+#DefraDB decentralized data solutions. #DataToThePeople 🧙
 
 ## There's nothing here 👇
 
